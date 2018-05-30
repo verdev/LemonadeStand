@@ -12,3 +12,10 @@ C:\Users\VictorDVerdev\OneDrive - verDev\devCodeCamp\Projects\LemonadeStand\Lemo
 C:\Users\VictorDVerdev\OneDrive - verDev\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.csproj.CoreCompileInputs.cache
 C:\Users\VictorDVerdev\OneDrive - verDev\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.exe
 C:\Users\VictorDVerdev\OneDrive - verDev\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.pdb
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.csprojAssemblyReference.cache
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.csproj.CoreCompileInputs.cache
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.exe
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\obj\Debug\LemonadeStand.pdb
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.exe.config
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.exe
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.pdb
