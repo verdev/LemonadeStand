@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace LemonadeStand
 {
-    class Validators
+    public static class Validators
     {
+        public static bool CheckForSevenFourteenOrTwentyOne(int userInput)
+        {
+            if (userInput == 7 || userInput == 14 || userInput == 21)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

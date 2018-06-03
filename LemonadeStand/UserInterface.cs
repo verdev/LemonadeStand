@@ -10,14 +10,6 @@ namespace LemonadeStand
     {
         static int inputAsNumber;
         
-        public static void DisplayMessage(string message)
-        {
-            Console.Clear();
-            Console.WriteLine();
-            Console.WriteLine(message);
-            Console.WriteLine();
-            Console.ReadKey();
-        }
         public static int GrabIntegerInput()
         {
             Console.WriteLine("\nPlease enter a number:");

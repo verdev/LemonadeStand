@@ -1,0 +1,17 @@
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\LemonadeStandTest.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\LemonadeStandTest.pdb
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\LemonadeStand.exe
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\LemonadeStand.pdb
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\LemonadeStand.exe.config
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\obj\Debug\LemonadeStandTest.csprojAssemblyReference.cache
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\obj\Debug\LemonadeStandTest.csproj.CoreCompileInputs.cache
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\obj\Debug\LemonadeStandTest.csproj.CopyComplete
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\obj\Debug\LemonadeStandTest.dll
+C:\Users\VictorDVerdev\Documents\devCodeCamp\Projects\LemonadeStand\LemonadeStandTest\obj\Debug\LemonadeStandTest.pdb
